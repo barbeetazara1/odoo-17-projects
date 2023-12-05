@@ -1,1 +1,3 @@
-# odoo-17-projects
+# Odoo 17 Documentation Projects
+
+1. School
